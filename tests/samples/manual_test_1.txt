@@ -1,0 +1,5 @@
+requests==2.31.0
+django==6.0
+numpy==1.21.6
+flask==3.0.0
+langchain-pdf-agent==0.1.0

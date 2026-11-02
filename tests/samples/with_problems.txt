@@ -1,0 +1,12 @@
+# every kind of finding
+
+this-package-does-not-exist-xyz123==1.0
+requests==99.99.99
+scipy==1.7.3
+Django[argon2]==6.0  # highest floor, also incompatible
+idna==2.10
+requests==2.31.0
+flask
+-r other.txt
+foo @ https://example.com/foo.zip
+
